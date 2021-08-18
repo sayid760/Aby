@@ -1,0 +1,1 @@
+export const isPromise = value => value != null && typeof value.then == 'function'
