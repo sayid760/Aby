@@ -1,7 +1,12 @@
-const __ = require('./_shared')
+// const __ = require('./_shared')
 
-const aby = {
-  __,
-}
+export { default as add } from './add.js'
 
-module.exports = aby
+
+
+
+
+// const aby = {
+//   __,
+// }
+// module.exports = aby
