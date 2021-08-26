@@ -6,7 +6,7 @@ console.log(intro)
 
 
 export default {
-    input: './src/aby.js',
+    input: './src/index-all.js',
     output: [
       {
         format: 'cjs',
